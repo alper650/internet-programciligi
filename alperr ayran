@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="lib/style.css" />
+    <script src="lib/script.js"></script>
+  </head>
+  <body>
+    Fatih Fevzi <b>Ayran</b><br>
+    Fatih <strong>Fevzi</strong><br>
+    <i> alper Ayran</i><br>
+    <em>alper ayran</em><br>
+    <ins>ankaralı namık</ins><br>
+    <del>Fatih Fevzi</del><br>
+    <mark>Fatih Fevzi</mark><br>
+    log<sub>2</sub><br>
+    5<sup>4</sup><br>
+    Fatih <small>Fatih</small><br>
+    <b><i>Fatma</i></b><br>
+    <h1>Hello World</h1>
+    <h2>Hello World</h2>
+    <h3>Hello World</h3>
+    <h4>Hello World</h4>
+    <h5>Hello World</h5>
+    <h6>Hello World</h6>
+    <p>paragraf....Hello World</p>
+    <form>
+      <label>Name:</label>
+      <input type="text"/> <br>
+
+      <label>Surname:</label>
+      <input type="text"/> <br>
+
+      <label>Password:</label>
+      <input type="text"/> <br>
+
+      <label>Gender:</label>
+      <input type=""/> <br>
+
+      <button>Gonder</button> </br>
+
+      <a target="_blank" href="https://github.com/">Github ALPER AYRAN
+      <br>
+      <img width="50" height="50" alt="Resim yok"
+      src=https://i.internethaber.com/uploads/content/ankaral%C4%B1-nam%C4%B1k-kimdir.jpg>
+  </body>
+</html>
