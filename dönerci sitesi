@@ -1,0 +1,44 @@
+<!doctype html>
+
+<html>
+  <head>
+    <link rel="stylesheet" href="lib/style.css">
+    <script src="lib/script.js"></script>
+  </head>
+
+  <body>
+    <h1> ananın sofrası </h1>
+    <img width="300" height="200" alt="Resim Yok"
+src="https://w7.pngwing.com/pngs/1000/776/png-transparent-two-meat-tacos-doner-kebab-durum-korean-taco-chicken-vegetarian-cuisine-doner-kebap-food-recipe-street-food-thumbnail.png">
+<form>
+  <br> <label>Ad:</label>
+  <input type ="text"/> <br>
+  <label>Soyad:</label>
+  <input type ="text"/> <br>
+  <label>Şifre:</label>
+  <input type ="password"/> <br>
+  <label>Mail:</label>
+  <input type ="text"/> <br>
+  <button>Gonder</button> <br> <br>
+<form>
+<form>
+ <table style="width:100%">
+  <tr>
+    <th>ana yemekler</th>
+    <th>içecekler</th>
+    <th>kurye</th>
+  </tr>
+  <tr>
+    <td>tavuk dürüm normal</td>
+    <td>ayran</td>
+    <td>hızlı servis</td>
+  </tr>
+  <tr>
+    <td>orta dürüm</td>
+    <td>kutu kola</td>
+    <td>normal kurye</td>
+  </tr>
+</table>
+
+  </body>
+</html>
