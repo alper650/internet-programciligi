@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <title>Dürümcü</title>
+  <link rel="stylesheet" href="lib/style.css" />
+  <script src="lib/script.js"></script>
+  <style>
+    h1 {
+      color: green;
+      background-color: white;
+    }
+    div {
+      border-bottom: 10px solid red;
+      margin: 150px;
+     
+      padding: 200px;
+      background-color: yellow;
+    }
+    input {
+      background-color: pink;
+    }
+    table, td, th {
+      border: 5px solid black;
+      background-color: yellow;
+    }
+    table {
+      border-collapse: collapse;
+    }
+   
+    table:hover, td:hover, th:hover {
+      background-color: lightblue;
+    }
+  </style>
+</head>
+<body>
+  <h1>dürümcü</h1>
+
+  <img
+    width="300"
+    height="200"
+    alt="Resim Yok"
+    src="https://e7.pngegg.com/pngimages/110/372/png-clipart-doner-kebab-shawarma-can-barbecue-barbecue-white.png"
+  />
+
+  <form>
+    <br />
+    <label>Ad:</label>
+    <input type="text" name="ad" /> <br />
+    <label>Soyad:</label>
+    <input type="text" name="soyad" /> <br />
+    <label>Şifre:</label>
+    <input type="password" name="sifre" /> <br />
+    <label>Mail:</label>
+    <input type="email" name="mail" /> <br />
+    <button type="submit">Gönder</button> <br /><br />
+  </form>
+
+  <table style="width: 100%">
+  
+    <tr>
+      <th>Ana Yemekler</th>
+      <th>İçecekler</th>
+      <th>Kurye</th>
+    </tr>
+    <tr>
+      <td>Tavuk dürüm normal</td>
+      <td>Ayran</td>
+      <td>Hızlı servis</td>
+    </tr>
+    <tr>
+      <td>Dev döner menü</td>
+      <td>Çay</td>
+      <td>Koşarak getirme</td>
+    </tr>
+    <tr>
+      <td>Orta dürüm</td>
+      <td>Kutu kola</td>
+      <td>Normal kurye</td>
+    </tr>
+  </table>
+</body>
+</html>
