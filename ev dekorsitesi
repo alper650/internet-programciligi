@@ -210,16 +210,12 @@
             <div class="container">
                 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
                     <div class="col">
-                        <div class="card shadow-sm"> <svg aria-label="Placeholder: Thumbnail"
-                                class="bd-placeholder-img card-img-top" height="225"
-                                preserveAspectRatio="xMidYMid slice" role="img" width="100%"
-                                xmlns="http://www.w3.org/2000/svg">
-                                <title>Placeholder</title>
-                                <rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%"
-                                    fill="#eceeef" dy=".3em">Thumbnail</text>
+                        <div class="card shadow-sm"> <img src="https://www.kargilimobilya.com.tr/shop/al/13/myassets/products/723/koltuk-takimi-541292.jpg?revision=1755162725"
+                            class="card-img-top"
+                            style="height: 225px; object-fit: cover ; width: 100%;">>
                             </svg>
                             <div class="card-body">
-                                <p class="card-text">koltuk takımı</p>
+                                <p class="card-text">koltuk takımı 45990 TL</p>
                                 <div class="d-flex justify-content-between align-items-center">
                                     <div class="btn-group"> <button type="button"
                                             class="btn btn-sm btn-outline-secondary">View</button> <button type="button"
@@ -230,16 +226,12 @@
                         </div>
                     </div>
                     <div class="col">
-                        <div class="card shadow-sm"> <svg aria-label="Placeholder: Thumbnail"
-                                class="bd-placeholder-img card-img-top" height="225"
-                                preserveAspectRatio="xMidYMid slice" role="img" width="100%"
-                                xmlns="http://www.w3.org/2000/svg">
-                                <title>Placeholder</title>
-                                <rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%"
-                                    fill="#eceeef" dy=".3em">Thumbnail</text>
+                        <div class="card shadow-sm"> <img src="https://cdn-linens.mncdn.com/Content/Images/Thumbs/0060383_pierre-cardin-adel-60-parca-yemek-takimi.jpeg"
+                            class="card-img-top"
+                            style="height: 225px; object-fit: cover ; width: 100%;">>
                             </svg>
                             <div class="card-body">
-                                <p class="card-text"> yemek takımı</p>
+                                <p class="card-text"> yemek takımı 29000 TL</p>
                                 <div class="d-flex justify-content-between align-items-center">
                                     <div class="btn-group"> <button type="button"
                                             class="btn btn-sm btn-outline-secondary">View</button> <button type="button"
@@ -250,16 +242,13 @@
                         </div>
                     </div>
                     <div class="col">
-                        <div class="card shadow-sm"> <svg aria-label="Placeholder: Thumbnail"
-                                class="bd-placeholder-img card-img-top" height="225"
-                                preserveAspectRatio="xMidYMid slice" role="img" width="100%"
-                                xmlns="http://www.w3.org/2000/svg">
-                                <title>Placeholder</title>
-                                <rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%"
-                                    fill="#eceeef" dy=".3em">Thumbnail</text>
+                        <div class="card shadow-sm"><img src="https://img.vivense.com/1920x1280/images/6ccf68a82b9143e391c08f93a0b6502b.jpg"
+                            class="card-img-top"
+                            style="height: 225px; object-fit: cover ; width: 100%;">>
+                            
                             </svg>
                             <div class="card-body">
-                                <p class="card-text">televizyon sehpası</p>
+                                <p class="card-text">televizyon sehpası 16700 TL</p>
                                 <div class="d-flex justify-content-between align-items-center">
                                     <div class="btn-group"> <button type="button"
                                             class="btn btn-sm btn-outline-secondary">View</button> <button type="button"
@@ -270,17 +259,13 @@
                         </div>
                     </div>
                     <div class="col">
-                        <div class="card shadow-sm"> <svg aria-label="Placeholder: Thumbnail"
-                                class="bd-placeholder-img card-img-top" height="225"
-                                preserveAspectRatio="xMidYMid slice" role="img" width="100%"
-                                xmlns="http://www.w3.org/2000/svg">
-                                <title>Placeholder</title>
-                                <rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%"
-                                    fill="#eceeef" dy=".3em">Thumbnail</text>
+                        <div class="card shadow-sm"> <img src="https://percdn.com/f/453060/cHNDVUoyVTArYkI4Tmk4Z1RvTTZKYms9/p/evalife-istanbul-8823-kaymaz-tabanli-yikanabilir-hali-93631186-sw3000sh3000.webp"
+                            class="card-img-top"
+                            style="height: 225px; object-fit: cover ; width: 100%;">>
+                            
                             </svg>
                             <div class="card-body">
-                                <p class="card-text">This is a wider card with supporting text below as a natural
-                                    lead-in to additional content. This content is a little bit longer.</p>
+                                <p class="card-text">kaymaz halı 1000 TL</p>
                                 <div class="d-flex justify-content-between align-items-center">
                                     <div class="btn-group"> <button type="button"
                                             class="btn btn-sm btn-outline-secondary">View</button> <button type="button"
@@ -293,23 +278,39 @@
                     <div class="col">
                         <div class="card shadow-sm"> 
                             <img src="https://www.cdnaws.com/i/sadeceondacom/ZW3D2Lqi2qQQvGYHnFzROLPsSdwHVUkzYQ1Dr/urunler/6736610f3b82e-6736610f49496.jpg">
+                           
+                            
                             <div class="card-body">
-                                <p class="card-text">This is a wider card with supporting text below as a natural
-                                    lead-in to additional content. This content is a little bit longer.</p>
+                                <p class="card-text">masa sandalye takımı 23799 TL</p>
                                 <div class="d-flex justify-content-between align-items-center">
                                     <div class="btn-group"> <button type="button"
-                                            class="btn btn-sm btn-outline-secondary">View</button> <button type="button"
-                                            class="btn btn-sm btn-outline-secondary">Edit</button> </div> <small
+                                            class="btn btn-sm btn-outline-secondary">SEPETE EKLE</button> <button type="button"
+                                            class="btn btn-sm btn-outline-secondary">HEMEN SATIN AL</button> </div> <small
                                         class="text-body-secondary">9 mins</small>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="col">
-                        <div class="card shadow-sm"> <svg aria-label="Placeholder: Thumbnail"
-                                class="bd-placeholder-img card-img-top" height="225"
-                                preserveAspectRatio="xMidYMid slice" role="img" width="100%"
-                                xmlns="http://www.w3.org/2000/svg">
+                        <div class="card shadow-sm"><img src="https://m.media-amazon.com/images/I/81C+H6RpALL._UF350,350_QL80_.jpg"
+                            class="card-img-top"
+                            style="height: 225px; object-fit: cover ; width: 100%;">>
+                            <div class="card-body"
+                                <p class="card-text">blender seti 3500 TL</p>
+                                <div class="d-flex justify-content-between align-items-center">
+                                    <div class="btn-group"> <button type="button"
+                                            class="btn btn-sm btn-outline-secondary">SEPETE EKLE</button> <button type="button"
+                                            class="btn btn-sm btn-outline-secondary">HEMEN SATIN AL</button> </div> <small
+                                        class="text-body-secondary">9 mins</small>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card shadow-sm"> <img src="https://tepehome.witcdn.net/logs-ayna-boy-aynasi-tepehome-72339-28-O.jpg"
+                            class="card-img-top"
+                            style="height: 225px; object-fit: cover ; width: 100%;">
+                            </svg>
                                 <title>Placeholder</title>
                                 <rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%"
                                     fill="#eceeef" dy=".3em">Thumbnail</text>
@@ -327,13 +328,9 @@
                         </div>
                     </div>
                     <div class="col">
-                        <div class="card shadow-sm"> <svg aria-label="Placeholder: Thumbnail"
-                                class="bd-placeholder-img card-img-top" height="225"
-                                preserveAspectRatio="xMidYMid slice" role="img" width="100%"
-                                xmlns="http://www.w3.org/2000/svg">
-                                <title>Placeholder</title>
-                                <rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%"
-                                    fill="#eceeef" dy=".3em">Thumbnail</text>
+                        <div class="card shadow-sm"> <img src="https://www.marketcik.com/shop/ra/75/myassets/products/899/marketcik-gold-4lu-sarkit-led-avize-3-renk-isikli-trz-1000-3.jpg?revision=1755855796"
+                            class="card-img-top"
+                            style="height: 225px; object-fit: cover ; width: 100%;">
                             </svg>
                             <div class="card-body">
                                 <p class="card-text">This is a wider card with supporting text below as a natural
@@ -348,36 +345,10 @@
                         </div>
                     </div>
                     <div class="col">
-                        <div class="card shadow-sm"> <svg aria-label="Placeholder: Thumbnail"
-                                class="bd-placeholder-img card-img-top" height="225"
-                                preserveAspectRatio="xMidYMid slice" role="img" width="100%"
-                                xmlns="http://www.w3.org/2000/svg">
-                                <title>Placeholder</title>
-                                <rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%"
-                                    fill="#eceeef" dy=".3em">Thumbnail</text>
-                            </svg>
-                            <div class="card-body">
-                                <p class="card-text">This is a wider card with supporting text below as a natural
-                                    lead-in to additional content. This content is a little bit longer.</p>
-                                <div class="d-flex justify-content-between align-items-center">
-                                    <div class="btn-group"> <button type="button"
-                                            class="btn btn-sm btn-outline-secondary">View</button> <button type="button"
-                                            class="btn btn-sm btn-outline-secondary">Edit</button> </div> <small
-                                        class="text-body-secondary">9 mins</small>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col">
-                        <div class="card shadow-sm"> <svg aria-label="Placeholder: Thumbnail"
-                                class="bd-placeholder-img card-img-top" height="225"
-                                preserveAspectRatio="xMidYMid slice" role="img" width="100%"
-                                xmlns="http://www.w3.org/2000/svg">
-                                <title>Placeholder</title>
-                                <rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%"
-                                    fill="#eceeef" dy=".3em">Thumbnail</text>
-                            </svg>
-                            <div class="card-body">
+                        <div class="card shadow-sm"> <img src="data:image/jpeg;base64,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"
+                            class="card-img-top"
+                            style="height: 225px; object-fit: cover ; width: 100%;">
+                         <div class="card-body">
                                 <p class="card-text">This is a wider card with supporting text below as a natural
                                     lead-in to additional content. This content is a little bit longer.</p>
                                 <div class="d-flex justify-content-between align-items-center">
